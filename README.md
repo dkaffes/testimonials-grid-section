@@ -47,7 +47,7 @@ Custom properties were used for the colors and font-weights.
 
 Grid layout was used for the `.cards-container` and Flexbox for the `.card` and the `.profile-container`.
 
-In my first solution approach I used `grid-template-areas` but after some research in the Discord #help channel of the FrontEndMentor community, I finally used ` grid-auto-flow: dense;` for the desktop Grid version.
+In my first solution approach I used `grid-template-areas` but after some research in the Discord #help channel of the FrontEndMentor community, I finally used `grid-auto-flow: dense;` for the desktop Grid version.
 
 ### Built with
 
